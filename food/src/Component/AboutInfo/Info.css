@@ -1,0 +1,17 @@
+
+p span{
+    color: rgb(249, 105, 2);
+    font-size: 28px;
+    font-weight: 800;
+}
+p{
+    color: black;
+    font-size: 15px;
+    font-weight: 700;
+}
+#infoPara{
+    color:black;
+    font-size: 16px;
+    font-weight: 900;
+    font-family:serif;
+}

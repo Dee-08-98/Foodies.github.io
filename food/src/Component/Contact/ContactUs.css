@@ -1,0 +1,30 @@
+ #img,#contact{
+ height: 500px;  
+}
+#img img{
+    height:100%;  
+    width: 100%;
+    padding: 0px 20px;
+    margin-top: 1px;
+}
+#contact h2{
+    color: rgb(0, 0, 0);
+    font-weight: 900;
+    margin-top: 20px;
+}
+#contact input{
+    border: none;
+    box-shadow: none;
+    border-bottom: 2px solid black;
+}
+#contact textarea{
+    border: none;
+    box-shadow: none;
+    border-bottom: 2px solid black;
+}
+#msg{
+    padding: 8px 20px;
+    color: rgb(255, 255, 255);
+    font-weight: 800;
+    background-color: red;
+}

@@ -1,0 +1,39 @@
+a{
+    text-decoration: none;
+  
+}
+.nav-link{
+    color: red;
+    font-weight:800;
+    font-size: 17px;
+}
+#login,#signup{
+    font-weight: 800;
+    font-size: 17px;
+}
+.navbar-brand{
+    font-weight: 900;
+    font-size: 24px;
+}
+.navbar-brand span{
+    color: chocolate;
+}
+hr{
+    border: 2px solid black;
+}
+
+.offcanvas-title{
+    color: chocolate;
+     font-weight: 900;
+    font-size: 24px;
+}
+#supp{
+    color: green;
+    font-weight: 900;
+    font-size: 17px;
+}
+
+.offcanvas-title span{
+    color:black;
+    
+}

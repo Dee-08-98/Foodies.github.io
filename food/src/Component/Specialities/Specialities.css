@@ -1,0 +1,67 @@
+#menubutton {
+    margin-top: 5px;
+    /* display: flex;
+justify-content: space-between; */
+}
+
+#menubutton button {
+    padding: 7px 12px;
+    background-color: red;
+    color: white;
+    font-weight: 900;
+}
+
+@media(width>768px) {
+    #menubutton {
+        display: flex;
+        justify-content: space-evenly;
+    }
+}
+.ads{
+    height: 400px;
+    margin-top: 55px;
+}
+.ads img{
+    height: 100%;
+    width: 100%;
+    padding: 0px,8px;
+    border-radius: 5%;
+}
+.bds{
+    padding: 5px 8px;
+    height: 200px;
+}
+#Dessert1 h2{
+    text-align: center;
+    font-weight: 900;
+    color: black;
+    font-size: 35px;
+}
+.bds h6{
+    color: rgb(249, 105, 2);
+    font-size: 20px;
+    font-weight: 700;
+    text-shadow: 1px 1px 1px black;
+}
+.bds p{
+    color:black;
+    font-size: 15px;
+    font-weight: 900;
+    font-family:serif;
+}
+#btn{
+    color: rgb(0, 0, 0);
+    background-color: red;
+    font-weight: 900;
+    padding: 6px 10px;
+    margin-top: 7px;
+    box-shadow: none;
+    border: none;
+    border-radius: 5px;
+
+}
+.bds h5{
+    color:green;
+    font-weight: 700;
+    margin-top: -5px;
+}

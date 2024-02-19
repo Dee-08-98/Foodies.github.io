@@ -1,0 +1,28 @@
+#Services .col-lg-4 span {
+    color: rgb(249, 105, 2);
+    font-size: 40px;
+    font-weight: 900;
+}
+
+#Services .col-lg-4 h5 {
+    color: black;
+    font-size: 25px;
+    font-weight: 700;
+    margin-top: 20px;
+
+}
+
+#Services .col-lg-4 p {
+    color:black;
+    font-weight: 900;
+    font-family:serif;
+    font-size: 16px;
+    margin-top: 15px;
+
+}
+
+#headServices{
+    text-align: center;
+    color: black;
+    font-weight: 900;
+}

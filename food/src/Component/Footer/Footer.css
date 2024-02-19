@@ -1,0 +1,61 @@
+#foodFooter{
+    text-align: center;
+    background-color: black;
+    margin-top: 65px;
+}
+#fotr4 h3{
+    color: rgb(249, 105, 2);
+    font-weight: 900;
+    padding-top: 55px;
+    text-shadow: 1px 1px 1px rgb(255, 254, 254);
+    font-size: 32px;
+}
+#fotr p{
+    color: rgb(255, 0, 0);
+    padding-top: 15px;
+}
+#fotr h6{
+    color: white;
+}
+#fotr .fa{
+    color:green;
+    font-weight: 900;
+}
+#fotr1 p{
+    color: rgb(255, 0, 0);
+    padding-top: 15px;
+}
+#fotr1 h6{
+    color: white;   
+}
+#fotr1 h6 span{
+    /* color: rgb(249, 105, 2);    */
+    color: green;
+    font-weight: 900;
+}
+#fotr2 h2{
+    color: green;
+    font-weight: 900;
+    font-size: 32px;
+    text-shadow: 1px 1px 1px white;
+}
+#fotr2 h2 span{
+    color: rgb(249, 105, 2);        
+    font-weight: 900;
+    font-size: 32px;
+}
+
+#fotr2 p .fa{
+    color: green;
+    font-size: 25px     ;
+    padding-top: 20px;
+}
+#fotr2 h5{
+    color: rgb(255, 255, 255);
+    padding-top: 10px; 
+}
+#fotr2 h6{
+    color: red;
+    padding-bottom: 10px; 
+    font-weight: 900;
+}

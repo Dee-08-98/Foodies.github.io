@@ -1,0 +1,70 @@
+#ads{
+    height: 400px;
+    margin-top: 55px;
+}
+#ads img{
+    height: 100%;
+    width: 100%;
+    padding: 0px,8px;
+    border-radius: 5%;
+}
+.bds{
+    padding: 5px 8px;
+    height: 200px;
+}
+#specialitem h2{
+    text-align: center;
+    font-weight: 900;
+    color: black;
+    font-size: 35px;
+}
+.bds h6{
+    color: rgb(249, 105, 2);
+    font-size: 20px;
+    font-weight: 700;
+    text-shadow: 1px 1px 1px black;
+}
+.bds p{
+    color:black;
+    font-size: 15px;
+    font-weight: 900;
+    font-family:serif;
+}
+.bds #btn{
+    color: rgb(0, 0, 0);
+    background-color: red;
+    font-weight: 900;
+    padding: 8px 15px;
+    margin-top: 7px;
+    box-shadow: none;
+    border: none;
+    border-radius: 7px;
+
+}
+
+
+#menubutton button{
+    color: rgb(255, 255, 255);
+    background-color: red;
+    margin-top: 5px;
+    font-weight: 900;
+    letter-spacing: 1px; 
+    padding: 8px 15px;
+
+}
+
+
+.bds h5{
+    color:green;
+    font-weight: 700;
+    margin-top: -5px;
+}
+
+@media(width>=1200px){
+    #menubutton {
+        display: flex;    
+        justify-content: space-evenly;
+        }
+}
+
+

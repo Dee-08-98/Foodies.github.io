@@ -1,0 +1,106 @@
+#shop {
+    color: rgb(0, 0, 0);
+    font-weight: 900;
+    text-align: center;
+}
+
+#shopcon {
+    height: 150px;
+}
+
+#shopcon .a {
+    padding: 10px 0px;
+    text-align: center;
+}
+
+.shopbtn {
+    border: none;
+    color: black;
+    letter-spacing: 1px;
+    background-color: red;
+    font-weight: 900;
+    padding: 7px 15px;
+    margin-top: 10px;
+    border-radius: 5px;
+    box-shadow: none;
+}
+
+#sec .col-lg-12 {
+    margin-top: 20px;
+    display: flex;
+
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+#sec .col-lg-12 img {
+    height: 55px;
+    width: 55px;
+}
+
+#sec .col-lg-12 .title {
+    color: black;
+    font-weight: 900;
+}
+
+#sec .col-lg-12 .price {
+    color: black;
+    font-weight: 900;
+}
+
+#sec .col-lg-12 .butn button {
+    color: rgb(255, 255, 255);
+    font-weight: 900;
+    background-color: red;
+    border: 2px solid black;
+}
+
+#sec .col-lg-12 .butn .minus {
+    width: 26px;
+
+}
+
+#Total button {
+    color: rgb(255, 255, 255);
+    font-weight: 900;
+    background-color: red;
+    border: none;
+    letter-spacing: 2px;
+    padding: 7px 20px;
+    margin-top: 10px;
+
+}
+#Total2 button {
+    color: rgb(255, 255, 255);
+    font-weight: 900;
+    background-color:green;
+    border: none;
+    letter-spacing: 2px;
+    padding: 7px 20px;
+    margin-top: 10px;
+
+}
+#total{
+    height: 80px;
+  margin-top: 30px;
+ 
+}
+#total span {
+    color: rgb(0, 0, 0);
+    font-weight: 900;
+    font-size: 20px;
+}
+
+@media(width>=768px) {
+    /* #Total button {
+        margin-left: 125px;
+    } */
+
+    /* #total span {
+        margin-left: 125px;
+
+    } */
+    #total,#Total,#Total2{
+        text-align: center;
+    }
+}

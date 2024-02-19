@@ -1,0 +1,63 @@
+.a{
+    height: 400px;
+    margin-top: 55px;
+}
+.a img{
+    height: 100%;
+    width: 100%;
+    padding: 0px,8px;
+    border-radius: 5%;
+}
+.b{
+    padding: 5px 8px;
+    height: 200px;
+}
+#specialitem h2{
+    text-align: center;
+    font-weight: 900;
+    color: black;
+    font-size: 35px;
+}
+.b h6{
+    color: rgb(249, 105, 2);
+    font-size: 20px;
+    font-weight: 700;
+    text-shadow: 1px 1px 1px black;
+}
+.b p{
+    color:black;
+    font-size: 16px;
+    font-weight: 900;
+    font-family:serif;
+}
+.b .btn{
+    color: rgb(0, 0, 0);
+    background-color: red;
+    font-weight: 900;
+    padding: 5px 10px;
+    margin-top: 7px;
+    box-shadow: none;
+
+}
+.b .btn:focus{
+    color: rgb(0, 0, 0);
+    background-color: red;
+    font-weight: 900;
+    padding: 5px 10px;
+    margin-top: 7px;
+    box-shadow: none;
+}
+
+.b .btn:hover{
+    color: rgb(0, 0, 0);
+    background-color: red;
+    font-weight: 900;
+    padding: 5px 10px;
+    margin-top: 7px;
+    box-shadow: none;
+}
+.b h5{
+    color:green;
+    font-weight: 700;
+    margin-top: -5px;
+}

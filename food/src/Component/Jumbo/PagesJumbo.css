@@ -1,0 +1,23 @@
+#parent{
+    background-image: url('../Asset/restro4.jpg') ;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    text-align: center;
+}
+
+/* ================ */
+
+ #parent .container h2 {
+    font-size: 35px;
+    font-weight: 900;
+    text-shadow: 1px 1px 0px rgb(0, 0, 0);
+    color: rgb(249, 105, 2);
+}
+#parent p{
+    font-weight:900;
+   color: rgb(0, 0, 0);
+   margin-top: 10px;
+
+}
+
+

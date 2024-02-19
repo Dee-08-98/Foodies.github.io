@@ -1,0 +1,32 @@
+#happy{
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    border: none;
+}
+ #happy .aaa {
+    height: 350px;
+   
+   
+}
+ #happy .aaa img{
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+}
+ #happy .bbb{
+    height: 100px;
+}
+#happy .bbb h6{
+    color:black;
+    font-size: 15px;
+    font-weight: 900;
+    font-family:serif;
+
+}
+#happycustomers{
+    text-align: center;
+    color: black;
+    font-weight: 900;
+    margin-bottom: 55px;
+}
